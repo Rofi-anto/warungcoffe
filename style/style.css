@@ -577,6 +577,10 @@ footer .credit a {
 .modal-content .product-star {
   padding: 1rem 0;
 }
+.modal-content .product-price span {
+  text-decoration: line-through;
+  color: black;
+}
 
 /* media query */
 /* laptop */
