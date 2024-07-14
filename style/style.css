@@ -380,6 +380,7 @@ body {
   padding: 1rem 0;
 }
 .products .row .product-card .product-img img {
+  width: 25rem;
   height: 25rem;
 }
 
@@ -401,12 +402,6 @@ body {
   font-weight: bold;
 }
 
-.products .row .product-price span {
-  text-decoration: line-through;
-  font-weight: lighter;
-  font-size: 1rem;
-  margin: 0 0.5rem 0;
-}
 /* product section end */
 
 /* kontak section start */
